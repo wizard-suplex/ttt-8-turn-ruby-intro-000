@@ -29,3 +29,4 @@ def position_taken?(board, index)
 end
 
 def turn()
+end
