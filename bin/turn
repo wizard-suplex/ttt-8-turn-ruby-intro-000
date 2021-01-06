@@ -7,7 +7,7 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 turn(board)
 
-def turn()
+def turn
   puts "Please enter 1-9:"
 
 end
